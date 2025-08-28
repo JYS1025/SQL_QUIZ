@@ -1,0 +1,5 @@
+{
+  "name": "SQL Practice Zone",
+  "description": "An interactive web application to practice SQL queries based on university-level lecture notes. Users can solve randomly generated problems, submit their queries for real-time evaluation against an in-browser SQLite database, and review their incorrect answers.",
+  "requestFramePermissions": []
+}
